@@ -75,7 +75,7 @@ $ go download
 
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Fear.PNG)
 
-![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Time.PNG)
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Clock.PNG)
 
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/PlayMusic.PNG)
 
