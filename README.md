@@ -39,6 +39,14 @@ The following table presents which body poses are already acquired:
 
 ### Examples
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Anger_Power.PNG)
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Hug.PNG)
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Disgust.PNG)
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Greeting.PNG)
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Fear.PNG)
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Time.PNG)
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/PlayMusic.PNG)
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/PauseMusic.PNG)
+
 
 
 ## License
