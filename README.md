@@ -49,15 +49,22 @@ The following table presents which body poses are already acquired:
 
 ### Examples
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Anger.png)
+
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Hug.PNG)
+
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Disgust.PNG)
+
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Greeting.PNG)
+
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Fear.PNG)
+
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Time.PNG)
+
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/PlayMusic.PNG)
+
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/PauseMusic.PNG)
 
 
 
 ## License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Magic Mirror</span> di<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"> Nicolò Massobrio</span> è distribuito con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/nicolomassobrio/Magic-Mirror" rel="dct:source">https://github.com/nicolomassobrio/Magic-Mirror</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Magic Mirror</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/nicolomassobrio/Magic-Mirror" property="cc:attributionName" rel="cc:attributionURL"> Nicolò Massobrio</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/nicolomassobrio/Magic-Mirror" rel="dct:source">https://github.com/nicolomassobrio/Magic-Mirror</a>.
