@@ -35,6 +35,7 @@ The following table presents which body poses are already acquired:
 | Both hands above the elbows and both elbows bended | - | Asking the current time |
 | Right arm stretched above the head and the legs apart | - | playing Bohemian Rhapsody |
 | Right hand above the shoulders, left hand below the hips and left foot on the right of right knee | - | playing Staying Alive |
+| Left hand near the left ear, left elbow blended above the shoulder and right arm stretched on the right of the right shoulder | - | pausing the music player |
 
 
 ## License
