@@ -38,7 +38,7 @@ The following table presents which body poses are already acquired:
 | Left hand near the left ear, left elbow blended above the shoulder and right arm stretched on the right of the right shoulder | - | pausing the music player |
 
 ### Examples
-![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Anger.png)
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Anger_Power.PNG)
 
 
 ## License
