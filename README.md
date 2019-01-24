@@ -18,9 +18,10 @@ Windows version:
 $ go get -u -f github.com/nicolomassobrio/Magic-Mirror/Magic_Mirror
 $ go download
 ```
-* Add the Magic Mirror folder to Processing folder on your device.
+* Add the Magic_Mirror folder to Processing folder on your device.
+* Check if SimpleOpenNi and Mimin library folders are in a folder called 'libraries' in Processing folder on your device.
 * Lantch Processing.
-* Open Magic Mirror file.
+* Open Magic_Mirror file.
 * Run the Processing file.
 
 ### The technique
@@ -46,6 +47,17 @@ The following table presents which body poses are already acquired:
 | Right arm stretched above the head and the legs apart | - | playing Bohemian Rhapsody |
 | Right hand above the shoulders, left hand below the hips and left foot on the right of right knee | - | playing Staying Alive |
 | Left hand near the left ear, left elbow blended above the shoulder and right arm stretched on the right of the right shoulder | - | pausing the music player |
+
+###  Magic Mirror Interaction folder
+
+The Magic Mirror Interaction is a new Processing file based on Magic Mirror project. Using this application two users can interact each other using colors and their body poses. Processing splits the screen into two different interfaces, one for each user.
+
+* Add the Magic_Mirror_Interaction folder to Processing folder on your device.
+* Lantch Processing.
+* Open Magic_Mirror_interaction file.
+* Run the Processing file.
+
+
 
 ### Examples
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Anger.png)
