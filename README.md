@@ -27,9 +27,9 @@ The following table presents which body poses are already acquired:
 | Position | Color | Description/Feeling |
 | --- | --- | --- |
 | Both arms stretched along the body | Black | neutral position (no feeling) |
-| Both hands above the shoulders and both elbows bended below the shoulders | Red | Maximum number of points |
-| Right hand above the shoulders | Orange | Greeting |
-| Both arms above the shoulders | Yellow | Happiness/Hug |
+| Both hands above the shoulders and both elbows bended below the shoulders | Red | Anger/Strength/Power |
+| Right hand above the shoulders | Orange | Greeting/Positiveness/Cordiality |
+| Both arms above the shoulders | Yellow | Happiness/Hug/Energy |
 | Left hand above the shoulders and right arm stretched down | Green | Disgust |
 | Both hands above the shoulders and right elbow bended above the shoulders | Purple | Fear |
 | Both hands above the elbows and both elbows bended | - | Asking the current time |
