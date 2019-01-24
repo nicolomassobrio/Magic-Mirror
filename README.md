@@ -52,6 +52,11 @@ The following table presents which body poses are already acquired:
 
 The Magic Mirror Interaction is a new Processing file based on Magic Mirror project. Using this application two users can interact each other using colors and their body poses. Processing splits the screen into two different interfaces, one for each user.
 
+```bash
+$ go get -u -f github.com/nicolomassobrio/Magic-Mirror/Magic_Mirror_Interaction
+$ go download
+```
+
 * Add the Magic_Mirror_Interaction folder to Processing folder on your device.
 * Lantch Processing.
 * Open Magic_Mirror_interaction file.
