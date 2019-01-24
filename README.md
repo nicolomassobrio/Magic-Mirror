@@ -26,12 +26,12 @@ The following table presents which body poses are already acquired:
 
 | Position | Color | Description/Feeling |
 | --- | --- | --- |
+| Both arms stretched along the body | black | neutral position (no feeling) |
+| Both hands above the shoulders and both elbows bended below the shoulders | Red | Maximum number of points |
 | Right hand above the shoulders | Orange | Greeting |
 | Both arms above the shoulders | Yellow | Happiness/Hug |
 | Left hand above the shoulders and right arm stretched down | Green | Disgust |
-| Both hands above the shoulders and both elbows bended below the shoulders | Red | Maximum number of points |
 | Both hands above the shoulders and right elbow bended above the shoulders | Purple | Fear |
-| Both arms stretched along the body | black | neutral position (no feeling) |
 | Both hands above the elbows and both elbows bended | - | Asking the current time |
 | Right arm stretched above the head and the legs apart | - | playing Bohemian Rhapsody |
 | Right hand above the shoulders, left hand below the hips and left foot on the right of right knee | - | playing Staying Alive |
