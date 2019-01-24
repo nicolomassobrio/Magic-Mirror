@@ -26,7 +26,7 @@ The following table presents which body poses are already acquired:
 
 | Position | Color | Description/Feeling |
 | --- | --- | --- |
-| Both arms stretched along the body | black | neutral position (no feeling) |
+| Both arms stretched along the body | Black | neutral position (no feeling) |
 | Both hands above the shoulders and both elbows bended below the shoulders | Red | Maximum number of points |
 | Right hand above the shoulders | Orange | Greeting |
 | Both arms above the shoulders | Yellow | Happiness/Hug |
