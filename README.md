@@ -14,11 +14,26 @@ Windows version:
 * Kinect for Windows SDK v1.8. Download and install from: https://www.microsoft.com/en-us/download/details.aspx?id=40278.
 
 ### The technique
+
 * The program uses the SimpleOpenNi v1.96 Processing library, which traces a basic skeleton of the user when the kinect detects its presence.
 *  The program allows the user to color the background of the mirror moving legs and arms in predefined positions, acquired from the Processing file.
 * The processing file stores in memory 4 user positions related to four moods, 2 positions related to a dance pose and 2 relative to gestural indicators.
 * The second processing file, called SkeletonPoser, defines a series of variables and functions that can be used whenever an element of the class with the same name is created, allowing to build new positions and associate new colors, texts and music to them.
 
+### Acquired body poses
 
+The following table presents which body poses are already acquired:
+
+| Position | Color | Description/Feeling |
+| --- | --- | --- |
+| Right hand above the shoulders | Orange | Greeting |
+| Both arms above the shoulders | Yellow | Happiness/Hug |
+| Left hand above the shoulders and right arm stretched down | Green | Disgust |
+| Both hands above the shoulders and both elbows bended below the shoulders | Red | Maximum number of points |
+| Both hands above the shoulders and right elbow bended above the shoulders | Purple | Fear |
+| Both arms stretched along the body | black | neutral position (no feeling) |
+| Both hands above the elbows and both elbows bended | - | Asking the current time |
+| Right arm stretched above the head and the legs apart | - | playing Bohemian Rhapsody |
+| Right hand above the shoulders, left hand below the hips and left foot on the right of right knee | - | playing Staying Alive |
 
 
