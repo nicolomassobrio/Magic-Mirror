@@ -38,4 +38,4 @@ The following table presents which body poses are already acquired:
 
 
 ## License
-![alt text](Magic-Mirror/CC-BY-SA_icon.svg.png)
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/CC-BY-SA_icon.svg.png)
