@@ -1,6 +1,6 @@
 # Magic-Mirror
 
-The project consists of an interactive mirror, made using Microsoft Kinect v1 and Processing 3.5.2. The user stands in front of a display, connected to a device with processing and he's able to see his mood projected according to his posture.
+The project consists of a prototype of an interactive mirror, made using Microsoft Kinect v1 and Processing 3.5.2. The user stands in front of a display, connected to a device with processing and he's able to see his mood projected according to his posture.
 
 ### Software prerequisites 
 
