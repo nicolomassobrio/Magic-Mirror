@@ -13,6 +13,16 @@ The project consists of an interactive mirror, made using Microsoft Kinect v1 an
 Windows version:
 * Kinect for Windows SDK v1.8. Download and install from: https://www.microsoft.com/en-us/download/details.aspx?id=40278.
 
+## Installation and usage
+```bash
+$ go get -u -f github.com/nicolomassobrio/Magic-Mirror/Magic_Mirror
+$ go download
+```
+* Add the Magic Mirror folder to Processing folder on your device.
+* Lantch Processing.
+* Open Magic Mirror file.
+* Run the Processing file.
+
 ### The technique
 
 * The program uses the SimpleOpenNi v1.96 Processing library, which traces a basic skeleton of the user when the kinect detects its presence.
