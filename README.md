@@ -37,3 +37,4 @@ The following table presents which body poses are already acquired:
 | Right hand above the shoulders, left hand below the hips and left foot on the right of right knee | - | playing Staying Alive |
 
 
+## License
