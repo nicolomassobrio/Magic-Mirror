@@ -37,6 +37,9 @@ The following table presents which body poses are already acquired:
 | Right hand above the shoulders, left hand below the hips and left foot on the right of right knee | - | playing Staying Alive |
 | Left hand near the left ear, left elbow blended above the shoulder and right arm stretched on the right of the right shoulder | - | pausing the music player |
 
+### Examples
+![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/Images/Anger.png)
+
 
 ## License
 ![alt text](https://github.com/nicolomassobrio/Magic-Mirror/blob/master/CC-BY-SA_icon.svg.png)
