@@ -2,7 +2,7 @@
 
 The project consists of an interactive mirror, made using Microsoft Kinect v1 and Processing 3.5.2. The user stands in front of a display, connected to a device with processing and he's able to see his mood projected according to his posture.
 
-### Prerequisites
+### Software prerequisites 
 
 * Processing 3.5.2 (22 January 2019). Download and install from: https://processing.org/download/.
 * OpenNI 2.2.0.33. Download and install from: https://structure.io/openni.
